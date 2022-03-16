@@ -3,3 +3,6 @@ this is the lab 5 tasks
 
 hello
 sdsf
+
+
+we calculate smtg
